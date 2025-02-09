@@ -1,0 +1,20 @@
+{
+  "name": "vct-calendar",
+  "version": "1.0.0",
+  "description": "Calendar sync files for Valorant Champions Tour(VCT) events",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "ics": "^3.8.1",
+    "winston": "^3.17.0"
+  }
+}
